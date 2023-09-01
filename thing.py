@@ -6,4 +6,3 @@ elif existence == 'no':
     print('Oh no, you do not exist :(')
 else:
     print('ANSWER THE QUESTION FFS')
-# Credits to Lisztaganx (me) for writing such a magnificent python script
